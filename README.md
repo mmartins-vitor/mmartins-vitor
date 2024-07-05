@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmartins-vitor" alt="mmartins-vitor" /></a> </p>
 
-- 🔭 I’m currently working on [springboot-mongodb](https://github.com/mmartins-vitor/springboot-mongodb)
+- 🔭 I’m currently working on [biblioteca-spring](https://github.com/mmartins-vitor/biblioteca-spring)
 
 - 🌱 I’m currently learning **Springboot**
 
