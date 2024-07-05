@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmartins-vitor" alt="mmartins-vitor" /></a> </p>
 
-- 🔭 I’m currently working on [biblioteca-spring](https://github.com/mmartins-vitor/biblioteca-spring)
+- 🔭 I’m currently working on (https://github.com/mmartins-vitor/biblioteca-springweb)
 
 - 🌱 I’m currently learning **Springboot**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mmartins.vitor2@gmail.com**
 
-- 📄 Know about my experiences [Im developer on resident program at Emap](Im developer on resident program at Emap)
+- 📄 Know about my experiences **Im developer on resident program at Porto do Itaqui**
 
 - ⚡ Fun fact **I am an oceanographer**
 
